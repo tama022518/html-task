@@ -1,0 +1,16 @@
+@charset "utf-8";
+img{
+    width:  50%;
+    width: 200px;
+    height: 200px;
+}
+head{
+    text-align: center;
+}
+td,table,th{
+    border:solid 4px black;
+    border-collapse: collapse;
+}
+thead{
+    background-color: aqua;
+}
