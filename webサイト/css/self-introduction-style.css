@@ -1,0 +1,15 @@
+/*記述済みの部分は変更しないでください！*/
+
+@charset "utf-8";
+
+.mark-list {
+    list-style: "★";
+}
+body{
+    text-align: center;
+    font-family: fantasy;
+}
+img{
+    height: 280px;
+    width: 370x;
+}

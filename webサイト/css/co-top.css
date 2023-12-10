@@ -1,0 +1,25 @@
+@charset "utf-8";
+img{
+    height: 280px;
+    width: 370x;
+}
+h2 a{
+    text-decoration: none;
+}
+.title{
+    font-size: 30px;
+    font-weight: bolder;
+}
+body{
+    text-align: center;
+    font-family: fantasy;
+}
+h3{
+    font-size: 25px;
+}
+.com{
+    font-size: 30px;
+}
+.size{
+    margin: 30px;
+}
