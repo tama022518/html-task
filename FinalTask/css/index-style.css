@@ -1,0 +1,29 @@
+@charset "UTF-8";
+ul{
+    list-style: none;
+    display: flex;
+}
+header ul li a{
+    display: block;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 20px;
+}
+header nav ul {
+    margin:  50px 0 0 500px;
+}
+a:focus{
+color: red;
+}
+div{
+    height: 1400px;
+}
+.index{ 
+    font-family:'Walter Turncoat', cursive;
+    background-image: url(../img/sinevajpg.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 85%;
+    background-color: black;
+}
