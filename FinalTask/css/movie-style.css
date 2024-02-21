@@ -3,7 +3,7 @@ ul{
     list-style: none;
     display: flex;
 }
-header ul li a{
+header ul li {
     display: block;
     color: white;
     font-weight: bold;
@@ -37,4 +37,17 @@ h1{
 }
 .margin{
     height: 100px;
+}
+.mokuji{
+    display: block;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 20px;
+}
+.seni{
+    color: blue;
+    font-weight: bold;
+    text-decoration: none;
+ margin: 20px 0 0 350px;
 }
